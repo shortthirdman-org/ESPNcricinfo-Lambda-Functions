@@ -1,0 +1,32 @@
+{
+  "name": "@shortthirdman/espncricinfo-functions",
+  "version": "1.0.0",
+  "description": "ESPNcricinfo on AWS Lambda",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shortthirdman-org/espncricinfo-functions.git"
+  },
+  "keywords": [
+    "espncricinfo",
+    "aws",
+    "lambda",
+    "serverless",
+    "aws-lambda"
+  ],
+  "author": "Swetank Mohanty <swetank.mohanty@outlook.com> (shortthirdman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shortthirdman-org/espncricinfo-functions/issues"
+  },
+  "homepage": "https://github.com/shortthirdman-org/espncricinfo-functions#readme",
+  "dependencies": {
+    "@aws-sdk/client-lambda": "3.583.0",
+    "aws-sdk": "2.1628.0",
+    "aws-xray-sdk-core": "3.6.0"
+  }
+}
