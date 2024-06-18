@@ -18,3 +18,17 @@ Full tech stack [here](/techstack.md)
 - [Building Lambda functions with Node.js](https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html)
 
 - [Lambda runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
+
+- [Building Lambda functions with TypeScript](https://docs.aws.amazon.com/lambda/latest/dg/lambda-typescript.html)
+
+- [Deploy transpiled TypeScript code in Lambda with container images](https://docs.aws.amazon.com/lambda/latest/dg/typescript-image.html)
+
+- [Deploy transpiled TypeScript code in Lambda with .zip file archives](https://docs.aws.amazon.com/lambda/latest/dg/typescript-package.html)
+
+- [Define Lambda function handler in TypeScript](https://docs.aws.amazon.com/lambda/latest/dg/typescript-handler.html)
+
+- [AWS Lambda function logging in TypeScript](https://docs.aws.amazon.com/lambda/latest/dg/typescript-logging.html)
+
+- [Tracing TypeScript code in AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/typescript-tracing.html)
+
+- [AWS Lambda function logging in TypeScript](https://docs.aws.amazon.com/lambda/latest/dg/typescript-logging.html)
